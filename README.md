@@ -1,11 +1,11 @@
 ## Official [LeetCode](https://leetcode.com/problemset/all/) problems with solutions
 
 
-![Language](https://img.shields.io/badge/language-Python%20%2F%20javascript-blue.svg)&nbsp;
-[![License](https://img.shields.io/badge/license-MIT-orange.svg)](./LICENSE.md)&nbsp;
-![Update](https://img.shields.io/badge/update-weekly-blue.svg)&nbsp;
-[![Package Status](https://img.shields.io/pypi/status/pandas.svg)](https://github.com/sudhirrd007/LeetCode_scraper)&nbsp;
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sudhirrd007.leetcode.solutions)&nbsp;
+![language](https://img.shields.io/badge/language-python%20%2F%20javascript-blue)&nbsp;
+![license](https://img.shields.io/badge/license-MIT-orange)&nbsp;
+![update](https://img.shields.io/badge/update-weekly-blue)&nbsp;
+![status](https://img.shields.io/badge/status-stable-orange)&nbsp;
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sudhirrd007.leetcode.solutions)&nbsp;
 <br><br>
 
 

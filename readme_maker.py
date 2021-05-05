@@ -26,7 +26,7 @@ def intro():
 - As you will solve new problems, it fetches those and store and update README.md file
 
 ### STEPS
-1) Just run from your terminal <br>
+1) Just run main.py from your terminal <br>
 2) You have two choice for login <br>
 &nbsp;&nbsp;&nbsp;&nbsp; a) automated login : you can give username and password to command line user prompts <br>
 &nbsp;&nbsp;&nbsp;&nbsp; b) manual login    : you can directly insert username and password into website <br>

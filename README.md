@@ -9,18 +9,18 @@
 
 
 ### Intro
-- This whole README.md file is auto generated
+- This whole **README.md** file is auto generated
 - This python project fetch solved programs on leetcode website and their related data, and store them into sqlite database
 - We do not need to store any program file manually or give name to it, because all those things will be done automatically
 - Problem names will be grouped by related tag names and sorted by difficulty level in for each those group
 - This project is not for one time run only, it will continue from where it was stopped or when all solved problems were fetched
-- As you will solve new problems, it fetches those and store and update README.md file
+- As you will solve new problems, it fetches those and store and update **README.md** file
 
 ### STEPS
-1) Just run main.py from your terminal <br>
+1) Just run **main.py** from your terminal <br>
 2) You have two choice for login <br>
 &nbsp;&nbsp;&nbsp;&nbsp; a) automated login : you can give username and password to command line user prompts <br>
-&nbsp;&nbsp;&nbsp;&nbsp; b) manual login    : you can directly insert username and password into website <br>
+&nbsp;&nbsp;&nbsp;&nbsp; b) manual login       : you can directly insert username and password into website <br>
 3) then your work will be done
 <br><br>
 

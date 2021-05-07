@@ -158,7 +158,7 @@ def update_readme_file():
                 for problem in problem_numbers:
                     string = create_metadata_string(DICT[problem])
                     file.write(string)
-                file.write("[⬆️ Back to index](#index) <br> \n\n")
+                file.write("\n[⬆️ Back to index](#index) <br> \n\n")
                 # file.write("\n\n")
     conn_metadata.close()
     conn_tags.close()

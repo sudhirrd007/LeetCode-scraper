@@ -107,6 +107,7 @@
 | 75 | [Sort Colors](./data_files/PROGRAMS/MEDIUM/0075_Sort_Colors.py) | MEDIUM | [python3](./data_files/PROGRAMS/MEDIUM/0075_Sort_Colors.py) | 40 ms | 50.1% | [Redirect](https://leetcode.com/problems/sort-colors) | - |
 | 873 | [Length of Longest Fibonacci Subsequence](./data_files/PROGRAMS/MEDIUM/0873_Length_of_Longest_Fibonacci_Subsequence.py) | MEDIUM | [python3](./data_files/PROGRAMS/MEDIUM/0873_Length_of_Longest_Fibonacci_Subsequence.py) | 652 ms | 48.2% | [Redirect](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence) | - |
 | 4 | [Median of Two Sorted Arrays](./data_files/PROGRAMS/HARD/0004_Median_of_Two_Sorted_Arrays.py) | HARD | [python3](./data_files/PROGRAMS/HARD/0004_Median_of_Two_Sorted_Arrays.py) | 104 ms | 31.6% | [Redirect](https://leetcode.com/problems/median-of-two-sorted-arrays) | - |
+
 [⬆️ Back to index](#index) <br> 
 
 # Backtracking
@@ -115,18 +116,21 @@
 | 17 | [Letter Combinations of a Phone Number](./data_files/PROGRAMS/MEDIUM/0017_Letter_Combinations_of_a_Phone_Number.py) | MEDIUM | [python3](./data_files/PROGRAMS/MEDIUM/0017_Letter_Combinations_of_a_Phone_Number.py) | 28 ms | 50.1% | [Redirect](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | - |
 | 22 | [Generate Parentheses](./data_files/PROGRAMS/MEDIUM/0022_Generate_Parentheses.py) | MEDIUM | [python3](./data_files/PROGRAMS/MEDIUM/0022_Generate_Parentheses.py) | 44 ms | 66.0% | [Redirect](https://leetcode.com/problems/generate-parentheses) | - |
 | 10 | [Regular Expression Matching](./data_files/PROGRAMS/HARD/0010_Regular_Expression_Matching.py) | HARD | [python3](./data_files/PROGRAMS/HARD/0010_Regular_Expression_Matching.py) | N/A | 27.5% | [Redirect](https://leetcode.com/problems/regular-expression-matching) | - |
+
 [⬆️ Back to index](#index) <br> 
 
 # Brainteaser
 |  #  | Title  |   Difficulty  |    Language   | Run Time  | Acceptance rate | LeetCode Link | Notes |
 |-----|------- |  ------------ | ------------- | --------- | --------------- | ------------- | ----- |
 | 292 | [Nim Game](./data_files/PROGRAMS/EASY/0292_Nim_Game.py) | EASY | [python3](./data_files/PROGRAMS/EASY/0292_Nim_Game.py) | 24 ms | 55.1% | [Redirect](https://leetcode.com/problems/nim-game) | - |
+
 [⬆️ Back to index](#index) <br> 
 
 # Heap
 |  #  | Title  |   Difficulty  |    Language   | Run Time  | Acceptance rate | LeetCode Link | Notes |
 |-----|------- |  ------------ | ------------- | --------- | --------------- | ------------- | ----- |
 | 23 | [Merge k Sorted Lists](./data_files/PROGRAMS/HARD/0023_Merge_k_Sorted_Lists.py) | HARD | [python3](./data_files/PROGRAMS/HARD/0023_Merge_k_Sorted_Lists.py) | 88 ms | 43.2% | [Redirect](https://leetcode.com/problems/merge-k-sorted-lists) | - |
+
 [⬆️ Back to index](#index) <br> 
 
 # Math
@@ -142,12 +146,14 @@
 | 2 | [Add Two Numbers](./data_files/PROGRAMS/MEDIUM/0002_Add_Two_Numbers.py) | MEDIUM | [python3](./data_files/PROGRAMS/MEDIUM/0002_Add_Two_Numbers.py) | 68 ms | 35.9% | [Redirect](https://leetcode.com/problems/add-two-numbers) | - |
 | 8 | [String to Integer (atoi)](./data_files/PROGRAMS/MEDIUM/0008_String_to_Integer_(atoi).py) | MEDIUM | [python3](./data_files/PROGRAMS/MEDIUM/0008_String_to_Integer_(atoi).py) | 40 ms | 15.8% | [Redirect](https://leetcode.com/problems/string-to-integer-atoi) | - |
 | 12 | [Integer to Roman](./data_files/PROGRAMS/MEDIUM/0012_Integer_to_Roman.py) | MEDIUM | [python3](./data_files/PROGRAMS/MEDIUM/0012_Integer_to_Roman.py) | 40 ms | 57.2% | [Redirect](https://leetcode.com/problems/integer-to-roman) | - |
+
 [⬆️ Back to index](#index) <br> 
 
 # Minimax
 |  #  | Title  |   Difficulty  |    Language   | Run Time  | Acceptance rate | LeetCode Link | Notes |
 |-----|------- |  ------------ | ------------- | --------- | --------------- | ------------- | ----- |
 | 292 | [Nim Game](./data_files/PROGRAMS/EASY/0292_Nim_Game.py) | EASY | [python3](./data_files/PROGRAMS/EASY/0292_Nim_Game.py) | 24 ms | 55.1% | [Redirect](https://leetcode.com/problems/nim-game) | - |
+
 [⬆️ Back to index](#index) <br> 
 
 # Recursion
@@ -156,18 +162,21 @@
 | 21 | [Merge Two Sorted Lists](./data_files/PROGRAMS/EASY/0021_Merge_Two_Sorted_Lists.py) | EASY | [python3](./data_files/PROGRAMS/EASY/0021_Merge_Two_Sorted_Lists.py) | 40 ms | 56.6% | [Redirect](https://leetcode.com/problems/merge-two-sorted-lists) | - |
 | 2 | [Add Two Numbers](./data_files/PROGRAMS/MEDIUM/0002_Add_Two_Numbers.py) | MEDIUM | [python3](./data_files/PROGRAMS/MEDIUM/0002_Add_Two_Numbers.py) | 68 ms | 35.9% | [Redirect](https://leetcode.com/problems/add-two-numbers) | - |
 | 17 | [Letter Combinations of a Phone Number](./data_files/PROGRAMS/MEDIUM/0017_Letter_Combinations_of_a_Phone_Number.py) | MEDIUM | [python3](./data_files/PROGRAMS/MEDIUM/0017_Letter_Combinations_of_a_Phone_Number.py) | 28 ms | 50.1% | [Redirect](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | - |
+
 [⬆️ Back to index](#index) <br> 
 
 # Sort
 |  #  | Title  |   Difficulty  |    Language   | Run Time  | Acceptance rate | LeetCode Link | Notes |
 |-----|------- |  ------------ | ------------- | --------- | --------------- | ------------- | ----- |
 | 75 | [Sort Colors](./data_files/PROGRAMS/MEDIUM/0075_Sort_Colors.py) | MEDIUM | [python3](./data_files/PROGRAMS/MEDIUM/0075_Sort_Colors.py) | 40 ms | 50.1% | [Redirect](https://leetcode.com/problems/sort-colors) | - |
+
 [⬆️ Back to index](#index) <br> 
 
 # Stack
 |  #  | Title  |   Difficulty  |    Language   | Run Time  | Acceptance rate | LeetCode Link | Notes |
 |-----|------- |  ------------ | ------------- | --------- | --------------- | ------------- | ----- |
 | 20 | [Valid Parentheses](./data_files/PROGRAMS/EASY/0020_Valid_Parentheses.py) | EASY | [python3](./data_files/PROGRAMS/EASY/0020_Valid_Parentheses.py) | 24 ms | 40.1% | [Redirect](https://leetcode.com/problems/valid-parentheses) | - |
+
 [⬆️ Back to index](#index) <br> 
 
 # String
@@ -187,5 +196,6 @@
 | 17 | [Letter Combinations of a Phone Number](./data_files/PROGRAMS/MEDIUM/0017_Letter_Combinations_of_a_Phone_Number.py) | MEDIUM | [python3](./data_files/PROGRAMS/MEDIUM/0017_Letter_Combinations_of_a_Phone_Number.py) | 28 ms | 50.1% | [Redirect](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | - |
 | 22 | [Generate Parentheses](./data_files/PROGRAMS/MEDIUM/0022_Generate_Parentheses.py) | MEDIUM | [python3](./data_files/PROGRAMS/MEDIUM/0022_Generate_Parentheses.py) | 44 ms | 66.0% | [Redirect](https://leetcode.com/problems/generate-parentheses) | - |
 | 10 | [Regular Expression Matching](./data_files/PROGRAMS/HARD/0010_Regular_Expression_Matching.py) | HARD | [python3](./data_files/PROGRAMS/HARD/0010_Regular_Expression_Matching.py) | N/A | 27.5% | [Redirect](https://leetcode.com/problems/regular-expression-matching) | - |
+
 [⬆️ Back to index](#index) <br> 
 
